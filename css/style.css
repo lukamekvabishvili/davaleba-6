@@ -1,0 +1,24 @@
+.galaxy{
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
+.ship{
+	position: absolute;
+	background-size: cover;
+	
+	width: 85px;
+	height: 85px;
+}
+.astronaut{
+	position: absolute;
+    top: 80px;
+    left: 10%;
+    width: 150px;
+}
+.blackhole{
+	position: absolute;
+	top: 15%;
+	right: 100px;
+	width: 300px;
+}
